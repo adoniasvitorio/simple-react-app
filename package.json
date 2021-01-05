@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/adoniasvitorio/simple-react-app.git",
   "author": "Adonias Vitorio <adonias.vitorio@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
