@@ -1,2 +1,2 @@
 # simple-react-app
-A simple react-app example
+A simple boilerplate react-app
